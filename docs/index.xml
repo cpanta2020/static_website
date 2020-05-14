@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on Notre-Dame de Paris</title>
+    <title>Portal Tecnología Web on Notre-Dame de Paris</title>
     <link>https://cpanta2020.github.io/static_website/</link>
-    <description>Recent content in Ananke: a Hugo Theme on Notre-Dame de Paris</description>
+    <description>Recent content in Portal Tecnología Web on Notre-Dame de Paris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
@@ -68,7 +68,7 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Contactanos</title>
       <link>https://cpanta2020.github.io/static_website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
