@@ -5,4 +5,6 @@ featured_image: ''
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) Un hijo del solVea tambien: De la coca al cacao: así nació Distrito Chocolate
+
+Dentro de la mitología y la leyenda aborígenes, hay otra de singular belleza: aquella de Goranchacha. Cuenta la tradición que un poderoso cacique tenía una hermosísima hija, cuyos rasgos de belleza eran incomparables. En una ocasión la caciquilla salió a recorrer el bosque vecino y en un claro, sobre un lecho de flores silvestres, se tendió para regocijarse mirando el cruzar de las nubes. De pronto un rayo del sol la iluminó. De inmediato sintió que algo extraño, muy inquietante, sucedía dentro de ella. Tímidamente le reveló a su padre lo acontecido. Este comprendió de inmediato que su hija estaba embarazada por voluntad divina. por el Sol que la había fecundado con sus destellos.
