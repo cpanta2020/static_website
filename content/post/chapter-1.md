@@ -99,19 +99,72 @@ terceros </li></ul>Tecnología en salud: tecnología y técnica.
 
 
 <ul><li>3. Tecnología para la salud </li></ul>Tecnología en salud
-<ul><li>Comúnmente la tecnología es entendida como el equipamiento y todos aquellos instrumentos y materiales diseñados por el hombre para facilitar sus tareas. </li></ul><ul><li>Este concepto, actualizado, plantea por Tecnología en Salud “los equipos, dispositivos médicos y quirúrgicos utilizados en la atención médica; medicamentos; sistemas organizacionales y de soporte al interior de los cuales se provee dicha atención; procedimientos médico quirúrgicos y sistemas de información”. </li></ul>Tecnología en salud: tecnología para la salud
+<ul><li>Comúnmente la tecnología es entendida como el equipamiento y todos aquellos instrumentos y materiales
+diseñados por el hombre para facilitar sus tareas. </li></ul><ul><li>Este concepto, actualizado, plantea por
+Tecnología en Salud “los equipos, dispositivos médicos y quirúrgicos utilizados en la atención médica;
+medicamentos; sistemas organizacionales y de soporte al interior de los cuales se provee dicha atención;
+procedimientos médico quirúrgicos y sistemas de información”. </li></ul>Tecnología en salud: tecnología para
+la salud.
+
+
 Tecnología en salud: inicios, evolución y tendencias .
-<ul><li>Esta definición abarca la atención de todas las personas, estén o no enfermas. </li></ul><ul><li>Desde esta perspectiva, las habilidades personales, así como el conocimiento para hacer uso apropiado de las tecnologías, son factores determinantes de la calidad del resultado final del servicio. </li></ul>Tecnología en salud: tecnología para la salud
+<ul><li>Esta definición abarca la atención de todas las personas, estén o no enfermas. </li></ul>
+<ul><li>Desde esta perspectiva, las habilidades personales, así como el conocimiento para hacer uso apropiado 
+de las tecnologías, son factores determinantes de la calidad del resultado final del servicio. </li></ul>
+
+
+Tecnología en salud: tecnología para la salud
 <ul><li>4. Ingeniería clínica </li></ul>Tecnología en salud
-<ul><li>El ingeniero clínico es el profesional que sostiene y mejora el cuidado del paciente, aplicando sus habilidades de ingeniería y de gestión en la tecnología para la salud </li></ul><ul><li>(American College of Clinical Engineering-ACCE) </li></ul>Tecnología en salud: Ingeniería Clínica
-<ul><li>El ingeniero clínico es un profesional, graduado de una programa académico de ingeniería o un ingeniero certificado, comprometido con la aplicación de conocimientos científicos y tecnológicos, obtenidos a través de la formación académica y experiencia profesional, que labora dentro de un ambiente clínico, como soporte a las actividades clínicas. </li></ul><ul><li>(Bronzino, Joseph- Management of medical technology a primer for clinical engineering – Butterworth Heinemann-USA) </li></ul>Tecnología en salud: Ingeniería Clínica
-<ul><li>El ingeniero clínico constituye el puente entre la medicina y la ingeniería moderna. </li></ul><ul><li>Su formación se basa en la ingeniería clásica y se complementa con cursos de fisiología, recursos humanos, análisis de sistemas, terminología médica, medición e instrumentación. </li></ul><ul><li>Realiza internados en establecimientos de salud, por lo que puede comprender e intervenir adecuadamente en el funcionamiento de estos establecimientos, considerando las guías de atención y la ética aplicada. </li></ul>Tecnología en salud: Ingeniería Clínica
-<ul><li>Qué hace el ingeniero clínico? </li></ul><ul><li>Articula el ámbito médico, la ingeniería y el empresariado. </li></ul><ul><li>Interviene eficazmente en los procesos de investigación, diseño, entrenamiento y, a menudo, en el medio clínico. </li></ul><ul><li>Evalúa, gestiona y resuelve problemas en el campo de los sistemas de información y de comunicaciones. </li></ul>Tecnología en salud: Ingeniería Clínica
+<ul><li>El ingeniero clínico es el profesional que sostiene y mejora el cuidado del paciente, aplicando sus
+habilidades de ingeniería y de gestión en la tecnología para la salud </li></ul>
+
+<ul><li>(American College of Clinical Engineering-ACCE) </li></ul>
+
+
+Tecnología en salud: Ingeniería Clínica
+<ul><li>El ingeniero clínico es un profesional, graduado de una programa académico de ingeniería o un ingeniero
+certificado, comprometido con la aplicación de conocimientos científicos y tecnológicos, obtenidos a través de
+la formación académica y experiencia profesional, que labora dentro de un ambiente clínico, como soporte a las 
+actividades clínicas. </li></ul>
+
+<ul><li>(Bronzino, Joseph- Management of medical technology a primer for clinical engineering – Butterworth
+Heinemann-USA) </li></ul>Tecnología en salud: Ingeniería Clínica
+<ul><li>El ingeniero clínico constituye el puente entre la medicina y la ingeniería moderna. </li></ul>
+<ul><li>Su formación se basa en la ingeniería clásica y se complementa con cursos de fisiología, recursos
+humanos, análisis de sistemas, terminología médica, medición e instrumentación. </li></ul><ul><li>Realiza 
+internados en establecimientos de salud, por lo que puede comprender e intervenir adecuadamente en el 
+funcionamiento de estos establecimientos, considerando las guías de atención y la ética aplicada. </li></ul>
+
+Tecnología en salud: Ingeniería Clínica
+<ul><li>Qué hace el ingeniero clínico? </li></ul><ul><li>Articula el ámbito médico, la ingeniería y el 
+empresariado. </li></ul><ul><li>Interviene eficazmente en los procesos de investigación, diseño, entrenamiento
+y, a menudo, en el medio clínico. </li></ul><ul><li>Evalúa, gestiona y resuelve problemas en el campo de los
+sistemas de información y de comunicaciones. </li></ul>Tecnología en salud: Ingeniería Clínica
+
 
 Tecnología en salud: Ingeniería Clínica
 
-<ul><li>Funciones del ingeniero clínico: </li></ul><ul><li>Participa de la gestión de la tecnología en el EESS, en particular en presupuestos y financiamiento. </li></ul><ul><li>Participa de la gestión de contratos de servicios y de las operaciones internas. </li></ul><ul><li>Supervisa el mantenimiento, asegurando la seguridad y efectividad de la tecnología usada. </li></ul><ul><li>Participa en la evaluación y planificación de nueva tecnología. </li></ul><ul><li>Asegura el cumplimiento de las regulaciones vigentes, investigando incidentes y participando en el entrenamiento y educación del personal médico asistencial y técnico </li></ul>Tecnología en salud: Ingeniería Clínica
-<ul><li>Otras funciones: </li></ul><ul><li>Apoya a la industria, asegurando que los nuevos productos cubran las necesidades de la práctica médica. </li></ul><ul><li>Se involucra en el proceso de desarrollo, desde el diseño hasta la venta y el servicio del producto. </li></ul><ul><li>Evalúa, en apoyo a la enfermera y otros profesionales, los nuevos productos y conceptos durante los procedimientos clínicos. </li></ul><ul><li>En la práctica privada se desempeñan como consultores </li></ul>Tecnología en salud: Ingeniería Clínica
-<ul><li>Debe diferenciarse la ingeniería clínica de la ingeniería hospitalaria: </li></ul><ul><li>La ingeniería clínica se ocupa de la tecnología dirigida al paciente (incubadoras, ventiladores mecánicos, etc). La relación con el paciente es directa. </li></ul><ul><li>La ingeniería hospitalaria ve los sistemas o dispositivos que forman parte de la estructura del establecimiento de salud, por medio de especialidades como la ingeniería civil, la mecánica y la electrónica. La relación con el paciente es indirecta. </li></ul>Tecnología en salud: Ingeniería Clínica
+<ul><li>Funciones del ingeniero clínico: </li></ul><ul><li>Participa de la gestión de la tecnología en el EESS,
+en particular en presupuestos y financiamiento. </li></ul><ul><li>Participa de la gestión de contratos de 
+servicios y de las operaciones internas. </li></ul><ul><li>Supervisa el mantenimiento, asegurando la seguridad
+y efectividad de la tecnología usada. </li></ul><ul><li>Participa en la evaluación y planificación de nueva
+tecnología. </li></ul>
+
+<ul><li>Asegura el cumplimiento de las regulaciones vigentes, investigando incidentes y participando en el
+entrenamiento y educación del personal médico asistencial y técnico </li></ul>
+
+Tecnología en salud: Ingeniería Clínica
+<ul><li>Otras funciones: </li></ul><ul><li>Apoya a la industria, asegurando que los nuevos productos cubran 
+las necesidades de la práctica médica. </li></ul><ul><li>Se involucra en el proceso de desarrollo, desde el 
+diseño hasta la venta y el servicio del producto. </li></ul><ul><li>Evalúa, en apoyo a la enfermera y otros 
+profesionales, los nuevos productos y conceptos durante los procedimientos clínicos. </li></ul>
+
+
+<ul><li>En la práctica privada se desempeñan como consultores </li></ul>Tecnología en salud: Ingeniería Clínica
+<ul><li>Debe diferenciarse la ingeniería clínica de la ingeniería hospitalaria: </li></ul><ul><li>La ingeniería 
+clínica se ocupa de la tecnología dirigida al paciente (incubadoras, ventiladores mecánicos, etc). La relación 
+con el paciente es directa. </li></ul><ul><li>La ingeniería hospitalaria ve los sistemas o dispositivos que 
+forman parte de la estructura del establecimiento de salud, por medio de especialidades como la ingeniería civil, 
+la mecánica y la electrónica. La relación con el paciente es indirecta. </li></ul>
 
 
