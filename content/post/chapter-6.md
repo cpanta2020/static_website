@@ -1,23 +1,31 @@
 ---
-date: 2017-04-14T11:25:05-04:00
+date: 2020-05-18T11:25:05-04:00
 description: "Esmeralda"
 featured_image: "/images/esmeralda.jpg"
 tags: []
-title: "Chapter VI: Esmeralda"
+title: "Esmeralda"
 disable_share: false
 ---
-We are delighted to be able to inform the reader, that during the whole of
-this scene, Gringoire and his piece had stood firm. His actors, spurred on
-by him, had not ceased to spout his comedy, and he had not ceased to
-listen to it. He had made up his mind about the tumult, and was determined
-to proceed to the end, not giving up the hope of a return of attention on
-the part of the public. This gleam of hope acquired fresh life, when he
-saw Quasimodo, Coppenole, and the deafening escort of the pope of the
-procession of fools quit the hall amid great uproar. The throng rushed
-eagerly after them. “Good,” he said to himself, “there go all the
-mischief-makers.” Unfortunately, all the mischief-makers constituted the
-entire audience. In the twinkling of an eye, the grand hall was empty.
 
+
+A los 22 años, inmediatamente de terminar el bachillerato se inscribió en la
+Universidad Central de Quito en la carrera de Medicina, que ayudado por sus 
+padres agricultores, logró la investidura de Doctor en Medicina y Cirugía.
+
+Regresó luego a Esmeraldas para contribuir con su ciudad y por cinco años como
+médico residente laboró en el viejo hospital ‘Delfina Torres de Concha’, en la
+avenida Libertad, entre las calles Manabí y 24 de Mayo, parte norte de la capital
+provincial.
+
+“Destacar al médico ecuatoriano representa una conmemoración que a medida del paso
+de los años continúa desvaneciéndose”, opina con un tanto de nostalgia, Antonio
+Medina Cortez, médico tratante en la actualidad, del hospital general del sur, 
+‘Delfina Torres de Concha’.
+
+Con más de 28 años en la Medicina, espera cambiar esa afirmación, pues si bien las
+organizaciones de médicos sufrieron vejaciones, muchos de ellos aún recuerdan con
+extensa claridad, que cada 21 de febrero como hoy, se homenajeaba a los colegas, 
+se proponía una sesión solemne y se rescataba los valores de tan noble profesión.
 To tell the truth, a few spectators still remained, some scattered, others
 in groups around the pillars, women, old men, or children, who had had
 enough of the uproar and tumult. Some scholars were still perched astride
