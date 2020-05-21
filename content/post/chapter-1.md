@@ -57,11 +57,47 @@ procesos en unidades de cuidados intensivos, apoyo al diagnóstico y entrenamien
 computarizados, resonancia magnética, entre otros procedimientos. </li></ul>Tecnología en salud:
  inicios, evolución y tendencias.
  
-<ul><li>Algunas reflexiones: </li></ul><ul><li>Existe una relación sincrónica entre la producción de tecnología y su aplicación. </li></ul><ul><li>En nuestro país, aún en proceso de desarrollo, los procesos de investigación, desarrollo, prueba y producción de tecnología vienen del exterior, lo que genera una fuerte dependencia tecnológica con los países industrializados. </li></ul><ul><li>La tecnología está fuertemente vinculada al contexto del país que origina la misma que al país que la recibe. </li></ul><ul><li>En estos países que generan tecnología, se establece una relación histórica entre la medicina y la ingeniería, como soporte de ella, de la que nace la ingeniería biomédica y la ingeniería clínica. Por lo explicado en los tres primeros puntos, esta relación no es evidente en los países en desarrollo. </li></ul><ul><li>Debe tenerse en cuenta todo esto, cuando de incorporar tecnología de trata. </li></ul>Tecnología en salud: inicios, evolución y tendencias.
+<ul><li>Algunas reflexiones: </li></ul><ul><li>Existe una relación sincrónica entre la producción
+de tecnología y su aplicación. </li></ul><ul><li>En nuestro país, aún en proceso de desarrollo, 
+los procesos de investigación, desarrollo, prueba y producción de tecnología vienen del exterior, 
+lo que genera una fuerte dependencia tecnológica con los países industrializados. </li></ul>
+
+<ul><li>La tecnología está fuertemente vinculada al contexto del país que origina la misma que al
+país que la recibe. </li></ul><ul><li>En estos países que generan tecnología, se establece una 
+relación histórica entre la medicina y la ingeniería, como soporte de ella, de la que nace la
+ingeniería biomédica y la ingeniería clínica. Por lo explicado en los tres primeros puntos, esta
+relación no es evidente en los países en desarrollo. </li></ul><ul><li>Debe tenerse en cuenta todo
+esto, cuando de incorporar tecnología de trata. </li></ul>Tecnología en salud: inicios, evolución y
+tendencias.
+
+
 <ul><li>2. Tecnología y técnica. </li></ul>Tecnología en salud
-<ul><li>Tecnología: </li></ul><ul><li>Conjunto de teorías y técnicas que permiten el aprovechamiento práctico del conocimiento científico. </li></ul><ul><li>Técnica </li></ul><ul><li>Método práctico o arte aplicado a un trabajo en particular. </li></ul><ul><li>Pericia o habilidad para usar de esos procedimientos y recursos. </li></ul>
-<ul><li>Un organización puede poseer un equipo médico, pero esto no implica que cuente con la tecnología asociada al mismo. Para que esto ocurra se debe contar con el conocimiento científico. </li></ul><ul><li>El conocimiento científico se basa en las ciencias exactas (matemática, física, química) y en la ciencias de la vida (biología, medicina). El perfil profesional acorde con estas características corresponde a un ingeniero médico o, mas formalmente, al de un ingeniero biomédico o un ingeniero clínico. </li></ul><ul><li>La falta del nivel adecuado de conocimientos científicos determina que las unidades administrativas y/o logísticas de una entidad de salud realicen un deficiente manejo de estos recursos. </li></ul>Tecnología en salud: tecnología y técnica.
-<ul><li>Los equipos o métodos relacionados con la tecnología para la salud provienen generalmente del exterior, por lo que pueden no coincidir con los requerimientos locales. Así, si se toman en cuenta criterios como la epidemiología, condiciones climáticas y atmosféricas, recursos disponibles, infraestructura disponible, entre otros, es posible y, eventualmente necesario, definir requerimientos propios. </li></ul><ul><li>Uno de los aspectos menos comprendidos de la tecnología es su intrínseco riesgo para el paciente, para el operador y para la población en general. En este marco, el conocimiento científico permitirá evaluar el nivel de seguridad y encontrar las soluciones correspondientes, evitando así daños a terceros </li></ul>Tecnología en salud: tecnología y técnica.
+<ul><li>Tecnología: </li></ul><ul><li>Conjunto de teorías y técnicas que permiten el aprovechamiento
+práctico del conocimiento científico. </li></ul><ul><li>Técnica </li></ul><ul><li>Método práctico o
+arte aplicado a un trabajo en particular. </li></ul><ul><li>Pericia o habilidad para usar de esos 
+procedimientos y recursos. </li></ul>
+
+
+<ul><li>Un organización puede poseer un equipo médico, pero esto no implica que cuente con la tecnología
+asociada al mismo. Para que esto ocurra se debe contar con el conocimiento científico. </li></ul>
+
+<ul><li>El conocimiento científico se basa en las ciencias exactas (matemática, física, química) y 
+en la ciencias de la vida (biología, medicina). El perfil profesional acorde con estas características
+corresponde a un ingeniero médico o, mas formalmente, al de un ingeniero biomédico o un ingeniero clínico. 
+</li></ul><ul><li>La falta del nivel adecuado de conocimientos científicos determina que las unidades
+administrativas y/o logísticas de una entidad de salud realicen un deficiente manejo de estos recursos. </li></ul>
+
+Tecnología en salud: tecnología y técnica.
+<ul><li>Los equipos o métodos relacionados con la tecnología para la salud provienen generalmente del
+exterior, por lo que pueden no coincidir con los requerimientos locales. Así, si se toman en cuenta 
+criterios como la epidemiología, condiciones climáticas y atmosféricas, recursos disponibles, 
+infraestructura disponible, entre otros, es posible y, eventualmente necesario, definir requerimientos 
+propios. </li></ul><ul><li>Uno de los aspectos menos comprendidos de la tecnología es su intrínseco riesgo
+para el paciente, para el operador y para la población en general. En este marco, el conocimiento científico 
+permitirá evaluar el nivel de seguridad y encontrar las soluciones correspondientes, evitando así daños a 
+terceros </li></ul>Tecnología en salud: tecnología y técnica.
+
+
 <ul><li>3. Tecnología para la salud </li></ul>Tecnología en salud
 <ul><li>Comúnmente la tecnología es entendida como el equipamiento y todos aquellos instrumentos y materiales diseñados por el hombre para facilitar sus tareas. </li></ul><ul><li>Este concepto, actualizado, plantea por Tecnología en Salud “los equipos, dispositivos médicos y quirúrgicos utilizados en la atención médica; medicamentos; sistemas organizacionales y de soporte al interior de los cuales se provee dicha atención; procedimientos médico quirúrgicos y sistemas de información”. </li></ul>Tecnología en salud: tecnología para la salud
 Tecnología en salud: inicios, evolución y tendencias .
