@@ -3,7 +3,7 @@ date: 2020-05-20T11:14:48-04:00
 description: "Master Jacques Coppenole"
 featured_image: ""
 tags: ["scene"]
-title: "Chapter IV: Historia de la Universidad Medica"
+title: "Historia de la Universidad Medica"
 ---
 
 

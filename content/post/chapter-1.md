@@ -9,12 +9,54 @@ title: "Chapter I: La Participación de la Evolución de la Tecnología en el Ar
 {{< figure src="/images/IIS_10_0.jpg" title="IIS 10" >}}
 
 
-<ul><li>Los cambios ocurridos dentro de las ciencias médicas se originaron con el rápido desarrollo de las ciencias aplicadas, como la química, la fisiología, la ingeniería, la microbiología, etc., desde los primeros años del siglo XX. </li></ul><ul><li>Este proceso de desarrollo fue caracterizado por una intensa y fértil relación interdisciplinaria, que permitió a la investigación médica dar grandes saltos en el desarrollo de técnicas para el diagnóstico y tratamiento de enfermedades. </li></ul>Tecnología en salud: inicios, evolución y tendencias.
-<ul><li>En 1903 William Einthoven, fisiólogo alemán, registra la actividad eléctrica del corazón a través del electrocardiograma. </li></ul><ul><li>En 1895 W.K. Roentgen en 1985 descubre los Rayos X, invento que se desarrolla rápidamente, encontrando aplicaciones útiles en el diagnóstico médico, generalizadas en 1930, cambiando la percepción de los hospitales por parte de los ciudadanos. </li></ul>Tecnología en salud: inicios, evolución y tendencias.
-<ul><li>Pese a estos avance, los hospitales aún despertaban temor en la población, generalmente por relacionarse con las complicaciones infecciosas y de otra naturaleza, asociadas a los procedimientos aplicados entonces. </li></ul>Tecnología en salud: inicios, evolución y tendencias. <ul><li>Esto cambia sustantivamente con la llegada de los antibióticos, como la sulfonamidas (1930) y la penicilina (1940). </li></ul>
-<ul><li>Concurrentemente, los servicios de cirugía se instalan en los hospitales y se desarrollan formas de tecnología médica que permiten el desarrollo de complejos procedimientos quirúrgicos. </li></ul><ul><li>En 1927 se introduce el respirador de Drinker y el primer by-pass corazón-pulmón fue instalado en 1933. </li></ul><ul><li>Ya en 1940 los procedimientos médicos dependían fuertemente de la tecnología médica, lo que se fuertemente influenciado por la conflagraciones mundiales. </li></ul>Tecnología en salud: inicios, evolución y tendencias.
-<ul><li>Los avances en electrónica permiten registrar el comportamiento eléctrico del sistema nervioso, el monitoreo de funciones fisiológicas, el uso del EEG, ECG, etc. </li></ul><ul><li>El desarrollo de la medicina nuclear permite el diseño de instrumentación nuclear para la detección y presentación de tejidos internos, con aplicación de material radiactivo para el diagnóstico y tratamiento. </li></ul><ul><li>Surge la cirugía para corrección, recambio o reemplazo de órganos a través de dispositivos protésicos. </li></ul>Tecnología en salud: inicios, evolución y tendencias.
-<ul><li>Se vuelve intensivo el uso de computadoras en registros clínicos, monitoreo y control de procesos en unidades de cuidados intensivos, apoyo al diagnóstico y entrenamiento . </li></ul><ul><li>Se utilizan imágenes médicas obtenidas de dispositivos de ultrasonidos, tomógrafos computarizados, resonancia magnética, entre otros procedimientos. </li></ul>Tecnología en salud: inicios, evolución y tendencias.
+<ul><li>Los cambios ocurridos dentro de las ciencias médicas se originaron con el rápido 
+desarrollo de las ciencias aplicadas, como la química, la fisiología, la ingeniería, la
+microbiología, etc., desde los primeros años del siglo XX. </li></ul><ul><li>Este proceso
+de desarrollo fue caracterizado por una intensa y fértil relación interdisciplinaria, que
+permitió a la investigación médica dar grandes saltos en el desarrollo de técnicas para el
+diagnóstico y tratamiento de enfermedades. </li></ul>Tecnología en salud: inicios, 
+evolución y tendencias.
+
+<ul><li>En 1903 William Einthoven, fisiólogo alemán, registra la actividad eléctrica del 
+corazón a través del electrocardiograma. </li></ul><ul><li>En 1895 W.K. Roentgen en 1985 
+descubre los Rayos X, invento que se desarrolla rápidamente, encontrando aplicaciones
+útiles en el diagnóstico médico, generalizadas en 1930, cambiando la percepción de los
+hospitales por parte de los ciudadanos. </li></ul>Tecnología en salud: inicios, evolución
+y tendencias.
+
+<ul><li>Pese a estos avance, los hospitales aún despertaban temor en la población,
+generalmente por relacionarse con las complicaciones infecciosas y de otra naturaleza,
+asociadas a los procedimientos aplicados entonces. </li></ul>Tecnología en salud: inicios,
+evolución y tendencias. <ul><li>Esto cambia sustantivamente con la llegada de los 
+antibióticos, como la sulfonamidas (1930) y la penicilina (1940). </li></ul>
+
+
+<ul><li>Concurrentemente, los servicios de cirugía se instalan en los hospitales y se
+desarrollan formas de tecnología médica que permiten el desarrollo de complejos 
+procedimientos quirúrgicos. </li></ul><ul><li>En 1927 se introduce el respirador de
+Drinker y el primer by-pass corazón-pulmón fue instalado en 1933. </li></ul><ul><li>
+
+
+Ya en 1940 los procedimientos médicos dependían fuertemente de la tecnología médica, 
+lo que se fuertemente influenciado por la conflagraciones mundiales. </li></ul>Tecnología
+en salud: inicios, evolución y tendencias.
+
+<ul><li>Los avances en electrónica permiten registrar el comportamiento eléctrico del sistema 
+nervioso, el monitoreo de funciones fisiológicas, el uso del EEG, ECG, etc. </li></ul><ul><li>
+
+El desarrollo de la medicina nuclear permite el diseño de instrumentación nuclear para la detección
+y presentación de tejidos internos, con aplicación de material radiactivo para el diagnóstico y
+tratamiento. </li></ul><ul><li>Surge la cirugía para corrección, recambio o reemplazo de órganos
+a través de dispositivos protésicos. </li></ul>Tecnología en salud: inicios, evolución y tendencias.
+
+
+<ul><li>Se vuelve intensivo el uso de computadoras en registros clínicos, monitoreo y control de 
+procesos en unidades de cuidados intensivos, apoyo al diagnóstico y entrenamiento . </li></ul>
+
+<ul><li>Se utilizan imágenes médicas obtenidas de dispositivos de ultrasonidos, tomógrafos 
+computarizados, resonancia magnética, entre otros procedimientos. </li></ul>Tecnología en salud:
+ inicios, evolución y tendencias.
+ 
 <ul><li>Algunas reflexiones: </li></ul><ul><li>Existe una relación sincrónica entre la producción de tecnología y su aplicación. </li></ul><ul><li>En nuestro país, aún en proceso de desarrollo, los procesos de investigación, desarrollo, prueba y producción de tecnología vienen del exterior, lo que genera una fuerte dependencia tecnológica con los países industrializados. </li></ul><ul><li>La tecnología está fuertemente vinculada al contexto del país que origina la misma que al país que la recibe. </li></ul><ul><li>En estos países que generan tecnología, se establece una relación histórica entre la medicina y la ingeniería, como soporte de ella, de la que nace la ingeniería biomédica y la ingeniería clínica. Por lo explicado en los tres primeros puntos, esta relación no es evidente en los países en desarrollo. </li></ul><ul><li>Debe tenerse en cuenta todo esto, cuando de incorporar tecnología de trata. </li></ul>Tecnología en salud: inicios, evolución y tendencias.
 <ul><li>2. Tecnología y técnica. </li></ul>Tecnología en salud
 <ul><li>Tecnología: </li></ul><ul><li>Conjunto de teorías y técnicas que permiten el aprovechamiento práctico del conocimiento científico. </li></ul><ul><li>Técnica </li></ul><ul><li>Método práctico o arte aplicado a un trabajo en particular. </li></ul><ul><li>Pericia o habilidad para usar de esos procedimientos y recursos. </li></ul>
