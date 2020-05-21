@@ -33,13 +33,36 @@ una cafetería, la biblioteca con más de 580.000 libros, una sala de conciertos
 
 
 
-Hay un único complejo deportivo con tres gimnasios, un estadio con un campo de fútbol, los sectores de pista y campo, campos de deportes de balon en mano, mini-fútbol, voleibol, baloncesto, una piscina, pistas de tenis, un campo de tiro, un club de ajedrez y dominó, un gimnasio-club. El territorio de la Universidad es de 12 hectáreas con una zona de parque, que está situado en la pintoresca orilla del río Dniéper y crea una ambiente confortable del campus. La Universidad tiene su propio dispensario para los tratamientos preventivos y un complejo deportivo de la salud en la costa del mar Azov.
+Hay un único complejo deportivo con tres gimnasios, un estadio con un campo de fútbol, los
+sectores de pista y campo, campos de deportes de balon en mano, mini-fútbol, voleibol, 
+baloncesto, una piscina, pistas de tenis, un campo de tiro, un club de ajedrez y dominó,
+un gimnasio-club. El territorio de la Universidad es de 12 hectáreas con una zona de parque,
+que está situado en la pintoresca orilla del río Dniéper y crea una ambiente confortable 
+del campus.
 
-Las escuelas científicas de la Universidad son muy conocidas fuera de Ucrania, y son las siguientes: la Escuela Académica de Cardiología de la Academia Nacional de Ciencias de Ucrania del Doctor en Ciencias Médicas, Profesor Visir D.C., la Escuela Farmacéutica del Profesor Mazur I. A., la Escuela de  Cirugía del miembro Honorario de la Ciencia y la Ingeniería profesor Nikonenko A. S. Por primera vez en Ucrania se hicieron los trasplantes de corazón, hígado, riñón y páncreas y fueron cumplidas por los especialistas de esta escuela. Se llevan a cabo más de 500 operaciones de trasplante
+
+La Universidad tiene su propio dispensario para los tratamientos preventivos y un complejo 
+deportivo de la salud en la costa del mar Azov.
+
+Las escuelas científicas de la Universidad son muy conocidas fuera de Ucrania, y son las 
+siguientes: la Escuela Académica de Cardiología de la Academia Nacional de Ciencias de 
+Ucrania del Doctor en Ciencias Médicas, Profesor Visir D.C., la Escuela Farmacéutica del
+Profesor Mazur I. A., la Escuela de  Cirugía del miembro Honorario de la Ciencia y la
+Ingeniería profesor Nikonenko A. S. Por primera vez en Ucrania se hicieron los trasplantes
+de corazón, hígado, riñón y páncreas y fueron cumplidas por los especialistas. Se llevan 
+a cabo más de 500 operaciones de trasplante.
 
 La Universidad cuenta con su propio centro médico-diagnóstico.
 
-La introducción de las tecnologías informáticas en el proceso de enseñanza-estudio, la investigación científica, la gestión es una de las actividades prioritarias de la Universidad . En la actualidad hay 20 aulas de informática de la Universidad que proveen a los estudiantes con los programas educativos basados en las tecnologías multimedia y cursos de control de prueba en los temas principales.  Se organizó el servidor de red de información.  La Universidad cuenta con equipamiento único para la realización de investigaciones científicas fundamentales y aplicadas: tomógrafos informáticos, dispositivos para el diagnóstico por ultrasonido, chequeo angiográfico y endoscópica, el diagnóstico de radioisótopos etc. 
+La introducción de las tecnologías informáticas en el proceso de enseñanza-estudio, la 
+investigación científica, la gestión es una de las actividades prioritarias de la 
+Universidad . En la actualidad hay 20 aulas de informática de la Universidad que proveen
+a los estudiantes con los programas educativos basados en las tecnologías multimedia y
+cursos de control de prueba en los temas principales.  Se organizó el servidor de red de
+información.  La Universidad cuenta con equipamiento único para la realización de 
+investigaciones científicas fundamentales y aplicadas: tomógrafos informáticos, 
+dispositivos para el diagnóstico por ultrasonido, chequeo angiográfico y endoscópica, 
+el diagnóstico de radioisótopos etc. 
 
 This hosier was an equal, who had just held his own before monsieur the
 cardinal. A very sweet reflection to poor fellows habituated to respect
