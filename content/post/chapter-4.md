@@ -1,41 +1,25 @@
 ---
-date: 2017-04-12T11:14:48-04:00
+date: 2020-05-20T11:14:48-04:00
 description: "Master Jacques Coppenole"
 featured_image: ""
 tags: ["scene"]
 title: "Chapter IV: Master Jacques Coppenole"
 ---
-While the pensioner of Ghent and his eminence were exchanging very low
-bows and a few words in voices still lower, a man of lofty stature, with a
-large face and broad shoulders, presented himself, in order to enter
-abreast with Guillaume Rym; one would have pronounced him a bull-dog by
-the side of a fox. His felt doublet and leather jerkin made a spot on the
-velvet and silk which surrounded him. Presuming that he was some groom who
-had stolen in, the usher stopped him.
 
-“Hold, my friend, you cannot pass!”
 
-The man in the leather jerkin shouldered him aside.
+En 1921 los cursos se reorganizaron en el Instituto de Química-Farmacéutica.
 
-“What does this knave want with me?” said he, in stentorian tones, which
-rendered the entire hall attentive to this strange colloquy. “Don’t you
-see that I am one of them?”
+En 1935 se reformó en el Instituto Estatal de Productos Farmacéuticos. En 1941 la vida del Instituto se vio interrumpido por la Gran Guerra Patria hasta 1944.
 
-“Your name?” demanded the usher.
+En 1959, el Instituto Farmacéutico fué trasladado desde Odessa a Zaporizhia y rebautizado en el Instituto Farmacéutico de Zaporizhya.
 
-“Jacques Coppenole.”
+En 1964 se formó la Facultad de Medicina y  en 1968  el Instituto Farmacéutico de  Zaporizhia fué renombrado en  Instituto Médico Zaporizhia.
 
-“Your titles?”
+En 1975 el Instituto Médico de Zaporizhia consiguió el status de Instituto de  primera categoría.
 
-“Hosier at the sign of the ‘Three Little Chains,’ of Ghent.”
+En 1994, el Instituto se reorganizó en la Universidad Estatal Médica de Zaporizhia con el nivel  IV (la más alta denominación) de acreditación.
 
-The usher recoiled. One might bring one’s self to announce aldermen and
-burgomasters, but a hosier was too much. The cardinal was on thorns. All
-the people were staring and listening. For two days his eminence had been
-exerting his utmost efforts to lick these Flemish bears into shape, and to
-render them a little more presentable to the public, and this freak was
-startling. But Guillaume Rym, with his polished smile, approached the
-usher.
+
 
 “Announce Master Jacques Coppenole, clerk of the aldermen of the city of
 Ghent,” he whispered, very low.
