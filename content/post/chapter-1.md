@@ -37,5 +37,3 @@ Tecnología en salud: Ingeniería Clínica
 <ul><li>Debe diferenciarse la ingeniería clínica de la ingeniería hospitalaria: </li></ul><ul><li>La ingeniería clínica se ocupa de la tecnología dirigida al paciente (incubadoras, ventiladores mecánicos, etc). La relación con el paciente es directa. </li></ul><ul><li>La ingeniería hospitalaria ve los sistemas o dispositivos que forman parte de la estructura del establecimiento de salud, por medio de especialidades como la ingeniería civil, la mecánica y la electrónica. La relación con el paciente es indirecta. </li></ul>Tecnología en salud: Ingeniería Clínica
 
 
-
-Así mismo, no solo ha permitido conocer la teoría que hay detrás de cada enfermedad, sino saber también sus causas; lo que ocurre dentro del organismo cuando llega una enfermedad, qué hacer para prevenirla (en casos tan complejos como el cáncer), qué hacer para detectarla, qué plan de acción ejecutar una vez se logre detectar la enfermedad y mucho más.
