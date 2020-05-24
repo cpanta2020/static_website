@@ -1,14 +1,21 @@
 ---
-title: Contactanos
+title: Contáctanos
 featured_image: "images/notebook.jpg"
 omit_header_text: true
-description: We'd love to hear from you
+description: Nosotros te atendermos en el menor tiempo posible
 type: page
 menu: main
 
 ---
 
+{{< figure src="/images/uasss.jpg" title="Unidad de Académica de Salud" >}}
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+La Universidad que se centra en capacitar en el Área de la Salud. Por lo cual se tiene implementos de alta tecnología. Click aqui [Unsa](https://unsa.mx/misionyvision/). 
 
-{{< form-contact action="https://example.com"  >}}
+Un grupo de empresarios mexiquenses vislumbraron la creciente necesidad social de brindar una formación académica de élite a los futuros profesionistas del sector salud.
+
+Formar profesionales líderes en el área de la salud, con amplio sentido ético, humanístico y científico que respondan a las necesidades sociales a nivel nacional e internacional.
+
+VALORES: Dignidad y centralidad humana, Desarrollo crítico y ético, Capacidad de liderazgo
+
+{{< form-contact action="https://unsa.mx/misionyvision/"  >}}
