@@ -11,6 +11,7 @@
       <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js"></script>
       <script src="script.js"></script>
       <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular-route.js"></script>
+      <script src="main.js"></script>
     </head>
 
     <body ng-controller="mainCtrl" style="
@@ -29,8 +30,8 @@
 
                 <ul class="nav navbar-nav navbar-right" >
                     <li><a href="#"><i class="fa fa-home"></i> Reglas</a></li>
-                    <li><a href="#about"><i class="fa fa-shield"></i> Nivel 1</a></li>
-                    <li><a href="#contact"><i class="fa fa-comment"></i> Nivel 2</a></li>
+                    <li><a id="menuAbout" href="#about" style="pointer-events: all; cursor: pointer"><i class="fa fa-shield"></i> Nivel 1</a></li>
+                    <li><a id="menuContac" href="#contact" style="pointer-events: none; cursor: default;"><i class="fa fa-comment"></i> Nivel 2</a></li>
                 </ul>
             </div>
             </nav>
